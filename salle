@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Camping</title>
+    <link rel="shortcut icon" href="anonymous.png">
+    <script>
+        alert('Votre ordinateur a bien ètè pirater')
+        alert("Ça ne sert a rien d'èteindre ou de fermer les pages web")
+        alert(10100100011001100110)
+    </script>
+
+</head>
+
+<body>
+    <video class="virus" src="virus.mp4" autoplay muted loop height="100%" width="100%">virus</video>
+</body>
+
+</html>
